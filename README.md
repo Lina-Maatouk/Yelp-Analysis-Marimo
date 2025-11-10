@@ -37,12 +37,3 @@ This project was built to demonstrate the ability to:
 | **Marimo** | Interactive UI and dashboard |
 | **KaggleHub** | Automated dataset download |
 | **Yelp Dataset (JSON)** | Real-world data source |
-
----
-
-## 🚀 Installation & Usage
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/YOUR-USERNAME/yelp-market-analysis-marimo.git
-cd yelp-market-analysis-marimo
